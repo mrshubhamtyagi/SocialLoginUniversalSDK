@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "825000008110",
+    "project_id": "antakshari-3872e",
+    "storage_bucket": "antakshari-3872e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825000008110:android:64b6d6b921b5db44e5903f",
+        "android_client_info": {
+          "package_name": "com.KliffApps.Antakshari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825000008110-6lvc8uui05p8io8m271j1kpvnpooepul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KliffApps.Antakshari",
+            "certificate_hash": "ba40d7006ee7d392f9c844b2800c6761fab509ec"
+          }
+        },
+        {
+          "client_id": "825000008110-ve9svisl5sm963d0ji65o3rcffoq3cku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmu5mS_D2k9HIZIZu8Iu2GA-P6N0wgtwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825000008110-cia4e0rr4oct0beohrp1neg3n581hmlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
